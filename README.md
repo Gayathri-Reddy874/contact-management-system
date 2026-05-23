@@ -43,6 +43,10 @@ phone-directory-app/
 └── data/
     └── phone_directory.xlsx   # Auto-created Excel database
 ```
+## 🌐 Live Demo
+
+🚀 Try the application here:  
+[Phone Directory Manager](https://contact-management-system-sdjvkjbrvkbeveug7zd4cl.streamlit.app/)
 
 ---
 
